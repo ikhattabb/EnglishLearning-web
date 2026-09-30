@@ -17,4 +17,5 @@ Learn English visually through images, audio, and interactive challenges with ze
    npm install
 
 2. **Run the app:**
+    ```bash
     npm run dev
