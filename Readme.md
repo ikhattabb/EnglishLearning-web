@@ -3,7 +3,7 @@
 Learn English visually through images, audio, and interactive challenges with zero Arabic translation.
 
 ## 🎬 Demo
-<video src="./video.mp4" controls width="100%"></video>
+C:\Users\Admin\Desktop\english-learning-web\video.mp4
 
 ## 🌟 How It Works
 - Learn words directly using images and audio.
