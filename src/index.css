@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #FFF3E0; }
+body { font-family: 'Nunito', sans-serif; display: block; }
+#root { min-height: 100vh; display: flex; justify-content: center; align-items: flex-start; }
+#root > div { max-width: 520px; margin: 0 auto; }
